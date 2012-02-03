@@ -1,4 +1,46 @@
+
+# Mailinator - http://www.mailinator.com/
+#
+# Source: http://www.mailinator.com/get_alt_domain
 mailinator.com
+mailinator2.com
+mailinator.net
+chammy.info
+binkmail.com
+bigstring.com
+bobmail.info
+dcemail.com
+devnullmail.com
+fastmail.fm
+gawab.com
+hushmail.com
+lavabit.com
+letthemeatspam.com
+mail2world.com
+muchomail.com
+notmailinator.com
+putthisinyourspamdatabase.com
+techemail.com
+tempimbox.com
+thisisnotmyrealemail.com
+tradermail.info
+safetymail.info
+sendspamhere.com
+sogetthis.com
+spamherelots.com
+spamthisplease.com
+supergreatmail.com
+suremail.info
+veryrealemail.com
+yopmail.com
+zippymail.info
+
+# Guerrilla Mail - http://www.guerrillamail.com/
+guerrillamail.com
+guerrillamailblock.com
+sharklasers.com
 
 # 10 Minute mail
+#
+# Note: These change monthly
 nwldx.com
