@@ -59,11 +59,16 @@ zippymail.info
 
 # Guerrilla Mail - http://www.guerrillamail.com/
 guerrillamail.com
+guerrillamail.org
+guerrillamail.net
 guerrillamailblock.com
 sharklasers.com
 
 # 10 Minute mail - http://10minutemail.com/
 nwldx.com
+
+# 10 Minute mail.net - http://10minutemail.net/
+ms9.mailslite.com
 
 # Fake Mail Generator http://fakemailgenerator.com/
 fakemailgenerator.com
@@ -130,9 +135,46 @@ speed.1s.fr
 # My trash mail - http://www.mytrashmail.com/
 mailmetrash.com
 
+# TempInbox - http://www.tempimbox.com/
+tempinbox.com
+beefmilk.com
+dingbone.com
+fatflap.com 
+fudgerub.com
+lookugly.com
+smellfear.com
+
+# Instant Email Address - http://instantemailaddress.com/
+instantemailaddress.com
+dacoolest.com
+junk1e.com
+throwawayemailaddress.com
+
+# Tempail - http://www.tempail.com/temp-email
+tempail.com
+iroid.com
+
+# Dudmail - http://dudmail.com/
+dudmail.com
+scatmail.com
+trayna.com
+
+# SpamDecoy - http://spamdecoy.net/ 
+spamdecoy.net
+dharmatel.net
+slave-auctions.net
+deadchildren.org
+
+# ThrowAwayMail.com - http://throwawaymail.com/
+throwawaymail.com
+tempmail2.com
+
 # The rest are from the same domain
+12minutemail.com
 24hourmail.com
+anonymbox.com
 deadaddress.com
+dispostable.com
 eyepaste.com
 filzmail.com
 fornow.eu
@@ -146,10 +188,13 @@ mailme24.com
 mailexpire.com
 meltmail.com
 no-spam.ws
+nospamfor.us
 nowmymail.com
 sneakemail.com
+spam.su
 spam-be-gone.com
 spamavert.com
+spamfree24.org
 spamgourmet.com
 sofimail.com
 tempemail.net
