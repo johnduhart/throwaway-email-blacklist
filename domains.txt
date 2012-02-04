@@ -1,3 +1,24 @@
+#############################################################
+## The Throwaway Email Blacklist
+## https://github.com/johnduhart/throwaway-email-blacklist
+##
+## File listing domains that are sending email from disposable accounts
+## Copyright (C) 2012  John Du Hart
+##
+## This program is free software; you can redistribute it and/or
+## modify it under the terms of the GNU General Public License
+## as published by the Free Software Foundation; either version 2
+## of the License, or (at your option) any later version.
+##
+## This program is distributed in the hope that it will be useful,
+## but WITHOUT ANY WARRANTY; without even the implied warranty of
+## MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+## GNU General Public License for more details.
+##
+## You should have received a copy of the GNU General Public License
+## along with this program; if not, write to the Free Software
+## Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+#############################################################
 
 # Mailinator - http://www.mailinator.com/
 #
@@ -27,12 +48,13 @@ tradermail.info
 safetymail.info
 sendspamhere.com
 sogetthis.com
+spam.la
 spamherelots.com
 spamthisplease.com
 supergreatmail.com
 suremail.info
 veryrealemail.com
-yopmail.com
+#yopmail.com
 zippymail.info
 
 # Guerrilla Mail - http://www.guerrillamail.com/
@@ -40,7 +62,94 @@ guerrillamail.com
 guerrillamailblock.com
 sharklasers.com
 
-# 10 Minute mail
-#
-# Note: These change monthly
+# 10 Minute mail - http://10minutemail.com/
 nwldx.com
+
+# Fake Mail Generator http://fakemailgenerator.com/
+fakemailgenerator.com
+teleworm.com
+
+# OneWayMail - http://onewaymail.com/
+onewaymail.com
+mobi.web.id
+ag.us.to
+
+# Shitmail - http://shitmail.com/
+shitmail.org
+crapmail.org
+
+# SoodoNims - http://soodonims.com/
+1ce.us
+big1.us
+garliclife.com
+irish2me.com
+lifebyfood.com
+lr7.us
+lr78.com
+luv2.us
+soodomail.com
+soodonims.com
+winemaven.info
+xoxox.cc
+yogamaven.com
+
+# Spambox -  http://www.spambox.us/
+# Note: There are a bunch of broken domains on this service. Check DNS before adding.
+spambox.us
+trillianpro.com
+nospam.wins.com.br
+
+# TrashMail - https://ssl.trashmail.net/
+kurzepost.de
+objectmail.com
+proxymail.eu
+rcpt.at
+trash-mail.at
+trashmail.at
+trashmail.me
+trashmail.net
+wegwerfmail.de
+wegwerfmail.net
+wegwerfmail.org
+
+# YOPmail - http://www.yopmail.com/en/
+yopmail.com
+yopmail.fr
+yopmail.net
+cool.fr.nf
+courriel.fr.nf
+jetable.fr.nf
+nospam.ze.tc
+nomail.xl.cx
+mega.zik.dj
+moncourrier.fr.nf
+monemail.fr.nf
+monmail.fr.nf
+speed.1s.fr
+
+# My trash mail - http://www.mytrashmail.com/
+mailmetrash.com
+
+# The rest are from the same domain
+24hourmail.com
+deadaddress.com
+eyepaste.com
+filzmail.com
+fornow.eu
+freemail.ms
+incognitomail.com
+incognitomail.org
+jetable.org
+keepmymail.com
+mailcatch.com
+mailme24.com
+mailexpire.com
+meltmail.com
+no-spam.ws
+nowmymail.com
+sneakemail.com
+spam-be-gone.com
+spamavert.com
+spamgourmet.com
+sofimail.com
+tempemail.net
