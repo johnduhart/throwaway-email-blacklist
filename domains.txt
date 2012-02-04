@@ -28,20 +28,12 @@ mailinator2.com
 mailinator.net
 chammy.info
 binkmail.com
-bigstring.com
 bobmail.info
-dcemail.com
 devnullmail.com
-fastmail.fm
 gawab.com
-hushmail.com
-lavabit.com
 letthemeatspam.com
-mail2world.com
-muchomail.com
 notmailinator.com
 putthisinyourspamdatabase.com
-techemail.com
 tempimbox.com
 thisisnotmyrealemail.com
 tradermail.info
@@ -54,7 +46,6 @@ spamthisplease.com
 supergreatmail.com
 suremail.info
 veryrealemail.com
-#yopmail.com
 zippymail.info
 
 # Guerrilla Mail - http://www.guerrillamail.com/
