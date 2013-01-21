@@ -189,3 +189,9 @@ spamfree24.org
 spamgourmet.com
 sofimail.com
 tempemail.net
+
+# Receiveee - https://receiveee.com
+receiveee.com
+rk9.chickenkiller.com
+receiveee.chickenkiller.com
+mailseal.de
