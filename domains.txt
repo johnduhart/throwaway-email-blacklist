@@ -57,20 +57,26 @@ sharklasers.com
 
 # 10 Minute mail - http://10minutemail.com/
 nwldx.com
+rmqkr.net
 
 # 10 Minute mail.net - http://10minutemail.net/
 ms9.mailslite.com
+zoaxe.com
 
 # Fake Mail Generator http://fakemailgenerator.com/
 fakemailgenerator.com
 teleworm.com
+dayrep.com
 
 # OneWayMail - http://onewaymail.com/
 onewaymail.com
 mobi.web.id
 ag.us.to
+gelitik.in
+fixmail.tk
 
 # Shitmail - http://shitmail.com/
+# 01-20-2013: Looks dead
 shitmail.org
 crapmail.org
 
@@ -122,18 +128,20 @@ moncourrier.fr.nf
 monemail.fr.nf
 monmail.fr.nf
 speed.1s.fr
+ypmail.webarnak.fr.eu.org
 
 # My trash mail - http://www.mytrashmail.com/
 mailmetrash.com
 
 # TempInbox - http://www.tempimbox.com/
-tempinbox.com
-beefmilk.com
-dingbone.com
-fatflap.com 
-fudgerub.com
-lookugly.com
-smellfear.com
+# 01-20-2013: Main site is not resolving
+#tempinbox.com
+#beefmilk.com
+#dingbone.com
+#fatflap.com 
+#fudgerub.com
+#lookugly.com
+#smellfear.com
 
 # Instant Email Address - http://instantemailaddress.com/
 instantemailaddress.com
@@ -144,6 +152,7 @@ throwawayemailaddress.com
 # Tempail - http://www.tempail.com/temp-email
 tempail.com
 iroid.com
+uroid.com
 
 # Dudmail - http://dudmail.com/
 dudmail.com
@@ -155,6 +164,7 @@ spamdecoy.net
 dharmatel.net
 slave-auctions.net
 deadchildren.org
+ntlhelp.net
 
 # ThrowAwayMail.com - http://throwawaymail.com/
 throwawaymail.com
